@@ -17,7 +17,7 @@ class Dev {
 const gb = new Dev (
     "Gustavo Bruno",
     19,
-    ["java", "typeScript", "python"]    
+    ["java", "typeScript", "python", "delphi"]    
 );
 ```
 ---
@@ -43,6 +43,7 @@ const gb = new Dev (
     <img src="https://img.shields.io/badge/TypeScript-E9498A?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-E9498A?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-E9498A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Delphi-E9498A?style=for-the-badge&logo=delphi&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E9498A?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-E9498A?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-E9498A?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -56,5 +57,4 @@ const gb = new Dev (
         <img src="https://img.shields.io/badge/Gmail-CB97DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </h3>
-<!-- THERE'S NO WAY TO ALIGN TEXT RIGHT AND LEFT IN THE SAME LINE NBSP WILL PROBABLY BREAK IN OTHER RESOLUTIONS -->
 
