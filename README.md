@@ -31,10 +31,10 @@ const gb = new Dev (
 ---
 
 ### 🇧🇷
-> Estudante de Ciência da Computação entrando no mercado de trabalho como desenvolvedor de software. Aprendo com facilidade e estou sempre buscando novos desafios.
+Atuando como Desenvolvedor de Software Delphi e cursando Ciência da Computação. Sempre aprendendo algo novo e buscando me tornar um dev melhor!
 
 ### 🇺🇸
-> Computer Science student entering the job market as a software developer. I learn with ease and am always looking for new challenges.
+Currently working as a Delphi Software Developer and studying Computer Science. Always learning something new and seeking to become a better dev! 
 
 ---
 
