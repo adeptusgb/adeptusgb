@@ -31,10 +31,10 @@ const gb = new Dev (
 ---
 
 ### 🇧🇷
-Atuando como Desenvolvedor de Software Delphi e cursando Ciência da Computação. Sempre aprendendo algo novo e buscando me tornar um dev melhor!
+Atuando como Desenvolvedor de Software Django e cursando Ciência da Computação. Sempre aprendendo algo novo e buscando me tornar um dev melhor!
 
 ### 🇺🇸
-Currently working as a Delphi Software Developer and studying Computer Science. Always learning something new and seeking to become a better dev! 
+Currently working as a Django Software Developer and studying Computer Science. Always learning something new and seeking to become a better dev! 
 
 ---
 
