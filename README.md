@@ -6,7 +6,7 @@
 <img width=450 align="right" src="https://github.com/adeptusgb/adeptusgb/assets/101028265/929479e2-8322-4bc0-9016-9a6a98d4ea93"/>
 
 ```go
-type SoftwareDev struct {
+type Dev struct {
     Name                string
     Age                 int
     Location            string
@@ -14,7 +14,7 @@ type SoftwareDev struct {
 }
 
 func main() {
-    me := SoftwareDev{"Gustavo Bruno", 21, Brazil, 1}
+    me := Dev{"Gustavo Bruno", 21, "Brazil", 1}
     fmt.Println(me)
 }
 ```
