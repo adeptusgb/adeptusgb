@@ -7,15 +7,20 @@
 
 ```go
 type Dev struct {
-    Name                string
-    Age                 int
-    Location            string
-    YearsOfExperience   int
+	Name              string
+	Age               int
+	Location          string
+	YearsOfExperience int
 }
 
 func main() {
-    me := Dev{"Gustavo Bruno", 21, "Brazil", 1}
-    fmt.Println(me)
+	me := Dev{
+		"Gustavo Bruno",
+		21,
+		"Brazil",
+		1,
+	}
+	fmt.Println(me)
 }
 ```
 ---
