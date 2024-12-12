@@ -14,7 +14,7 @@ type Dev struct {
 }
 
 func main() {
-	me := Dev{
+	me := Dev {
 		"Gustavo Bruno", 21, "Brazil", 1,
 	}
 	fmt.Println(me)
