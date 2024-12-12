@@ -28,9 +28,7 @@ func main() {
     <img align="left" width=40 src="https://github.com/adeptusgb/adeptusgb/assets/101028265/52efd172-54fe-4c06-9fd9-aace54f40e64">
 </h3>
 
-Currently working as a C# Developer and studying Computer Science.
-
-Learning Go.
+Currently working as a C# Developer and studying Computer Science. Learning Go.
 
 ---
 
