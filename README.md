@@ -5,20 +5,18 @@
 
 <img width=450 align="right" src="https://github.com/adeptusgb/adeptusgb/assets/101028265/929479e2-8322-4bc0-9016-9a6a98d4ea93"/>
 
-```ts
-class Dev {
-   constructor (
-        public name: string,
-        public age: number,
-        public languages: string[]
-    ) {};
+```go
+type SoftwareDev struct {
+    Name                string
+    Age                 int
+    Location            string
+    YearsOfExperience   int
 }
 
-const gb = new Dev (
-    "Gustavo Bruno",
-    19,
-    ["java", "typeScript", "python", "delphi"]    
-);
+func main() {
+    me := SoftwareDev{"Gustavo Bruno", 21, Brazil, 1}
+    fmt.Println(me)
+}
 ```
 ---
 
@@ -28,13 +26,9 @@ const gb = new Dev (
     <img align="left" width=40 src="https://github.com/adeptusgb/adeptusgb/assets/101028265/52efd172-54fe-4c06-9fd9-aace54f40e64">
 </h3>
 
----
+Currently working as a C# Developer and studying Computer Science.
 
-### 🇧🇷
-Atuando como Desenvolvedor de Software Django e cursando Ciência da Computação. Sempre aprendendo algo novo e buscando me tornar um dev melhor!
-
-### 🇺🇸
-Currently working as a Django Software Developer and studying Computer Science. Always learning something new and seeking to become a better dev! 
+Learning Go.
 
 ---
 
@@ -43,7 +37,8 @@ Currently working as a Django Software Developer and studying Computer Science. 
     <img src="https://img.shields.io/badge/TypeScript-E9498A?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-E9498A?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-E9498A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Delphi-E9498A?style=for-the-badge&logo=delphi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-E9498A?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-E9498A?style=for-the-badge&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E9498A?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-E9498A?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-E9498A?style=for-the-badge&logo=mongodb&logoColor=white"/>
