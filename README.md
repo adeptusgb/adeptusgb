@@ -15,10 +15,8 @@ type Dev struct {
 
 func main() {
 	me := Dev{
-		"Gustavo Bruno",
-		21,
-		"Brazil",
-		1,
+		"Gustavo Bruno", 21,
+		"Brazil", 1,
 	}
 	fmt.Println(me)
 }
